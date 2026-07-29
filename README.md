@@ -35,15 +35,6 @@ Most recent: **[Multimage – Image Uploads for WPForms](https://wordpress.org/p
 | **[Multimage – Image Uploads for WPForms](https://wordpress.org/plugins/multimage-image-uploads-for-wpforms/)** | Multi-image upload field for WPForms/WPForms Lite — AJAX pre-upload, MIME validation, tested with PHPUnit. [Source](https://github.com/akshat009/multimage-image-uploads-for-wpforms) |
 | **[Very Simple Contact Us Form](https://wordpress.org/plugins/very-simple-contact-us-form/)** | Lightweight shortcode contact form with database storage and CSV export. [Source](https://github.com/akshat009/very-simple-contact-us-form) |
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat009&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat009&layout=compact&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
