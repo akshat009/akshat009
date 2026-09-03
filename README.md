@@ -47,14 +47,6 @@ Most recent: **[Flash Sale Stock Guard for WooCommerce](https://wordpress.org/pl
 npx create-wp-plugin-cli my-plugin
 ```
 
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake.svg" alt="A snake eating my GitHub contribution graph" width="100%" />
-</picture>
-
 ---
 
 <div align="center">
