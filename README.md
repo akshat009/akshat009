@@ -50,12 +50,6 @@ npx create-wp-plugin-cli my-plugin
 ## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akshat009&theme=github-compact&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akshat009&theme=github-compact&hide_border=true&bg_color=ffffff" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat009&theme=github-compact&hide_border=true" alt="Akshat's GitHub activity graph" width="100%" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/akshat009/akshat009/output/github-contribution-grid-snake.svg" alt="A snake eating my GitHub contribution graph" width="100%" />
