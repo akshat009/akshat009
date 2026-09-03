@@ -16,7 +16,7 @@
 
 I build custom WordPress themes, plugins, and Gutenberg blocks — across enterprise environments (via Capgemini) and US digital agency client work. I also publish plugins independently on the WordPress.org repository.
 
-Most recent: **[Story Video Block](https://wordpress.org/plugins/story-video-block/)** — a Gutenberg video/testimonial block that turns any YouTube, Vimeo, Loom, Twitch (and 5 more) URL into a click-to-play embed with an auto-fetched poster image. The frontend interaction runs on WordPress's native `@wordpress/interactivity` script module, so no React or jQuery is shipped to visitors. Fully themeable through CSS custom properties and PHP filters.
+Most recent: **[Flash Sale Stock Guard for WooCommerce](https://wordpress.org/plugins/flash-sale-stock-guard-for-woocommerce/)** — stops overselling by holding stock the instant a guarded product is added to cart, using a concurrency-safe database lock so two shoppers can never check out with the same last unit. Automatic hold expiry, per-variation targeting, and an optional live countdown on cart/checkout, free with no "Pro" upsell.
 
 ## Tech Stack
 
@@ -32,7 +32,8 @@ Most recent: **[Story Video Block](https://wordpress.org/plugins/story-video-blo
 
 | Plugin | Description |
 |---|---|
-| **[Story Video Block](https://wordpress.org/plugins/story-video-block/)** | Gutenberg video/testimonial block — 9 auto-detected providers plus self-hosted files, click-to-load playback, testimonial mode, CSS-variable theming and developer filters. Zero React/jQuery on the front end. [Source](https://github.com/akshat009/story-video-block) |
+| **[Flash Sale Stock Guard for WooCommerce](https://wordpress.org/plugins/flash-sale-stock-guard-for-woocommerce/)** | Prevents overselling by holding stock on add-to-cart — concurrency-safe locking, automatic hold expiry, per-variation targeting, live countdown, and developer filters. Free, no premium tier. [Source](https://github.com/akshat009/flash-sale-stock-guard-for-woocommerce) |
+| **[Story Video Block](https://wordpress.org/plugins/story-video-block/)** | Gutenberg video embed block — 9 auto-detected providers plus self-hosted files, click-to-load playback, an optional testimonial layout, CSS-variable theming and developer filters. Zero React/jQuery on the front end. [Source](https://github.com/akshat009/story-video-block) |
 | **[Multimage – Image Uploads for WPForms](https://wordpress.org/plugins/multimage-image-uploads-for-wpforms/)** | Multi-image upload field for WPForms/WPForms Lite — AJAX pre-upload, MIME validation, tested with PHPUnit. [Source](https://github.com/akshat009/multimage-image-uploads-for-wpforms) |
 | **[Very Simple Contact Us Form](https://wordpress.org/plugins/very-simple-contact-us-form/)** | Lightweight shortcode contact form with database storage and CSV export. [Source](https://github.com/akshat009/very-simple-contact-us-form) |
 
